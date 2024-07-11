@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit_option_menu
 from streamlit_option_menu import option_menu
 from predict_page import show_predict_page
 from explore_page import show_explore_page
